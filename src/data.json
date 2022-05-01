@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "fullName": "Jennifer Stuart",
+      "address": "3 GreenHills road",
+      "phoneNumber": "225-962-2016",
+      "email": "jennifer.stuart@email.com"
+    },
+    {
+      "id": 2,
+      "fullName": "James warren",
+      "address": "4 Carpet town",
+      "phoneNumber": "011-211-6517",
+      "email": "james.warren@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Tony Stark",
+      "address": "11 Columbia Mine road",
+      "phoneNumber": "990-912-4916",
+      "email": "tony.stark@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Justin Clark",
+      "address": "93 west manor",
+      "phoneNumber": "011-879-444",
+      "email": "justin.clark@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Richard Edwards",
+      "address": "99 Edmond Street",
+      "phoneNumber": "4431-962-2567",
+      "email": "richard.edwards@email.com"
+    }
+  ]
